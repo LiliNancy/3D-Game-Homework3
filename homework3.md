@@ -101,7 +101,7 @@ Priests and Devils is a puzzle game in which you will help the Priests and Devil
 
 ### 代码编写
 
-按照要求，使用MVC模型。创建了如下脚本。
+按照要求，使用MVC模型。创建了如下脚本。（完整代码见Assets/Scripts）
 ![avatar](pic/scp.png)
 
 首先是Model部分，为了实现该游戏，创建了Cha类，代表Charactor，代码如下：
